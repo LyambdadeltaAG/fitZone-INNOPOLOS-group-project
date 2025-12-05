@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Fitness",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "body",
+    "description": "Effective weight training for muscle growth.",
+    "images": [
+      "assets/images/Fitness_12.gif",
+      "assets/images/Fitness_13.gif",
+      "assets/images/Fitness_15.gif"
+    ]
+  },
+
+  {
+    "title": "Planks",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "body",
+    "description": "Start in high plank. Keeping your core engaged, jump your feet out and in (like jumping jacks).",
+    "images": [
+      "assets/images/PLANK_JACKS.gif",
+      "assets/images/PLANK_TAPS.gif",
+      "assets/images/Plank_Ups-new.gif"
+    ]
+  },
+  {
+    "title": "Reverse Lunges",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "3",
+    "category": "body",
+    "description": "Start standing with your feet about shoulder-width apart.Step backwards with your left foot, landing on the ball of your foot and bending your knees to create two 90-degree angles. Push through your right heel to return to standing. Repeat on the other side.",
+    "images": [
+      "assets/images/CURTSY_LUNGE_SIDEKICK.gif",
+      "assets/images/curtsy-lunges-with-side-kick.gif"
+    ]
+  },
+  {
+    "title": "Down Dog Abs",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "body",
+    "description": "Start in down dog and lift your right leg into the air. This is your down dog split position (also known as three-legged down dog). Bring your right knee under your torso. Pause then extend your right leg back to down dog split. Now bring your right knee to meet your right elbow. Pause then extend your right leg back to down dog split. Finally, bring your right knee across your torso to meet your left elbow. Pause then extend right leg back to down dog split. Repeat the same sequence on the other side.",
+    "images": [
+      "assets/images/Down_Dog_Series.gif",
+      "assets/images/down-dog-abs.gif"
+    ]
+  },
+  {
+    "title": "Froggers",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "legs",
+    "description": "Stand with your legs wider than hip-width apart, knees bent, and upper body hinged slightly forward. Place your hands on the ground in front of you, then jump your straight legs back into a high plank. Jump your feet to the outsides of your hands and bring your hands toward your chest to return to the starting position.",
+    "images": [
+      "assets/images/FROGGER1.gif",
+      "assets/images/froggers.gif"
+    ]
+  },
+  {
+    "title": "Hip Bridges",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "3",
+    "category": "legs",
+    "description": "Start lying flat on your back, your knees bent and your heels a few inches away from your butt. Your feet should be about hip-distance apart. Lift your hips up, then lower them back to the ground.",
+    "images": [
+      "assets/images/HIP_BRIDGE.gif",
+      "assets/images/hip-bridge.gif"
+    ]
+  },
+  {
+    "title": "Side Step Squats",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "legs",
+    "description": "Stand tall with your feet together and hands on your hips. Step your right foot to the right, so your feet are just wider than shoulder-width apart. Drop your butt back and bend your knees to lower into a squat. Straighten your knees and bring your foot back to the starting position. Repeat on the other side.",
+    "images": [
+      "assets/images/SIDE_STEP_SQUAT.gif",
+      "assets/images/side-step-squats.gif"
+    ]
+  },
+  {
+    "title": "Power Lunges",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "legs",
+    "description": "Stand with your feet hip-width apart. Lunge back with your right foot, bending both knees 90 degrees. Straighten your left leg and jump into the air while driving your right knee up in front of your body. Immediately lower your right foot back into a lunge. Repeat on the other side.",
+    "images": [
+      "assets/images/POWER_LUNGE.gif",
+      "assets/images/power-lunges.gif"
+    ]
+  },
+  {
+    "title": "Mountain Climbers",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "arms",
+    "description": "Start in a high plank and draw your right knee under your torso, keeping your toes off the ground. Return your right foot to the starting position. Switch legs and bring your left knee under your chest. Keep switching legs as if you're running in place.",
+    "images": [
+      "assets/images/MOUNTAIN_CLIMBERS.gif",
+      "assets/images/mountain-climbers.gif"
+    ]
+  },
+  {
+    "title": "Standing Oblique Crunches",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "arms",
+    "description": "Stand with your feet hip-width apart and hands behind your head and elbows wide. Lift your left knee toward your left elbow while you bend your torso up and over to the left. Repeat on the other side.",
+    "images": [
+      "assets/images/STANDING_OBLIQUE_CRUNCH.gif",
+      "assets/images/standing-oblique-crunches.gif"
+    ]
+  },
+  {
+    "title": "Bird-Dog",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "body-phys",
+    "description": "Start on your hands and knees in tabletop position with your wrists stacked under your shoulders and your knees stacked under your hips. This is the starting position. Extend your right arm forward and left leg back, maintaining a flat back and keeping your hips in line with the floor. Think about driving your foot toward the wall behind you. Hold briefly. Squeeze your abs and return your arm and leg to starting position. This is one rep. Do a set amount of reps, then repeat with the other arm and leg.",
+    "images": [
+      "assets/images/bird-dog.gif",
+      "assets/images/bird-dog-crunch.gif"
+    ]
+  },
+  {
+    "title": "Criss-Cross",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "body-phys",
+    "description": "Lie faceup and bring both knees in toward your chest. Place your hands on the back of your head, keeping your elbows wide. Curl your head up. Bring your left shoulder toward your right knee as you extend your left leg. Then bring your right shoulder toward your left knee as you extend your right leg. Continue alternating sides.",
+    "images": [
+      "assets/images/criss-cross.gif",
+      "assets/images/double-leg-stretch.gif"
+    ]
+  },
+  {
+    "title": "Leg Circle",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "legs-phys",
+    "description": "Bend your left knee and place your left foot flat on the floor. Extend your right leg up so that it’s perpendicular to the floor. Circle your right leg out to the side, down toward the ground, and return to your starting position. Make the circle as big as you can while still keeping your lower back on the floor. Reverse the circle. Complete all reps on one leg, then repeat on the other.",
+    "images": [
+      "assets/images/leg-circle.gif"
+    ]
+  },
+  {
+    "title": "Teaser",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "3",
+    "category": "legs-phys",
+    "description": "Lie faceup. Bend your knees over your hips and and lift your feet off the mat. Extend your legs as you reach your arms toward your feet and lift your head and shoulders off the mat. Try to create a V shape with your torso and legs. Hold for five breaths, and then roll onto your back bending your knees again.",
+    "images": [
+      "assets/images/teaser.gif",
+      "assets/images/toe-top.gif"
+    ]
+  },
+  {
+    "title": "Thread the Needle",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "arms-phys",
+    "description": "Start in a tabletop position with your shoulders stacked directly over your wrists and hips over your knees. Reach your right arm underneath your left and across your body with your palm facing up. Bend your left elbow as you gently lean into your right side; you should feel a stretch in the back of your right shoulder. Hold for 5 to 10 breaths. Switch sides and repeat.",
+    "images": [
+      "assets/images/thread-the-needle.gif",
+      "assets/images/slow-mountain-climber.gif"
+    ]
+  },
+  {
+    "title": "Push right",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "arms-phys",
+    "description": "Stand on toes and arms. Bend down right leg and put the knee on the flour. Make some slow front pushes. Change the leg and repeat.",
+    "images": [
+      "assets/images/push-right.gif"
+    ]
+  },
+  {
+    "title": "Stretching",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "body-lfk",
+    "description": "Lie on back and shorten your legs. Spread out both hands to the right and left \nTwist the head to the left and the shortened legs to the right. Repeat the exercise changing the sides.",
+    "images": [
+      "assets/images/body-stretching.jpg",
+      "assets/images/knees-twisting.jpg"
+    ]
+  },
+  {
+    "title": "Bow-pose",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "body-lfk",
+    "description": "Start in a tabletop position with your shoulders stacked directly over your wrists and hips over your knees. Reach your right arm underneath your left and across your body with your palm facing up. Bend your left elbow as you gently lean into your right side; you should feel a stretch in the back of your right shoulder. Hold for 5 to 10 breaths. Switch sides and repeat.",
+    "images": [
+      "assets/images/bow-pose.png",
+      "assets/images/hand-legs-ups.jpg"
+    ]
+  },
+  {
+    "title": "Leg twisting",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "legs-lfk",
+    "description": "Lie on back and shorten your legs. Raise both legs. Shorten the right. Twist the left leg. Change the leg and repeat.",
+    "images": [
+      "assets/images/leg-twisting.jpeg",
+      "assets/images/leg-up.jpg"
+    ]
+  },
+  {
+    "title": "Knees twisting",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "2",
+    "category": "legs-lfk",
+    "description": "Lie on back and shorten your legs. Raise both legs. Shorten the right. Twist the left leg. Change the leg and repeat.",
+    "images": [
+      "assets/images/side-knee-raising.jpg",
+      "assets/images/twisting.jpg"
+    ]
+  },
+  {
+    "title": "Arm-up",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "arms-lfk",
+    "description": "Spread out one hand. Pull it down by another another hand feeling the tension in the arm. Change the hand.",
+    "images": [
+      "assets/images/arm-up.jpg"
+    ]
+  },
+  {
+    "title": "Arm-down",
+    "duration": "15 days",
+    "timePerDay": "30-40 min/day",
+    "equipment": "YES",
+    "difficulty": "1",
+    "category": "arms-lfk",
+    "description": "Spread out one hand. Pull it up by another another hand feeling the tension in the arm. Change the hand.",
+    "images": [
+      "assets/images/arm-down.jpg"
+    ]
+  }
+
+]
